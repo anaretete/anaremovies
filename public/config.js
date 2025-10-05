@@ -1,7 +1,7 @@
 window.__CONFIG__ = {
   // The URL for the CORS proxy, the URL must NOT end with a slash!
   // If not specified, the onboarding will not allow a "default setup". The user will have to use the extension or set up a proxy themselves
-  VITE_CORS_PROXY_URL: "https://schoolstreamproxy.netlify.app",
+  VITE_CORS_PROXY_URL: "https://simple-proxy.htc-lemon1.workers.dev",
 
   // The READ API key to access TMDB
   VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZmUwZDc4Nzk4N2YzNjUyMWFjZDc2MmUwMDY5ZTEwOCIsIm5iZiI6MTc1OTYzNDQ4NS41MDIsInN1YiI6IjY4ZTFlNDM1MTAzOTU1YWE5OWY4MTJhNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gTbtyiqvmdgm9HheyV_jd05cxAVtlR_tFRBKqMDPqwY",
