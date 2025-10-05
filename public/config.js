@@ -13,8 +13,8 @@ window.__CONFIG__ = {
   VITE_NORMAL_ROUTER: true,
 
   // The backend URL to communicate with
-  VITE_BACKEND_URL: null,
+  VITE_BACKEND_URL: "https://server.fifthwit.net"
 
-  // A comma separated list of disallowed IDs in the case of a DMCA claim - in the format "series-<id>" and "movie-<id>"
-  VITE_DISALLOWED_IDS: ""
+  // M3U8 proxy url"
+  VITE_M3U8_PROXY_URL: "https://schoolstreamproxy.netlify.app"
 };
