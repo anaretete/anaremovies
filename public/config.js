@@ -16,5 +16,5 @@ window.__CONFIG__ = {
   VITE_BACKEND_URL: "https://server.fifthwit.net"
 
   // M3U8 proxy url"
-  VITE_M3U8_PROXY_URL: "https://schoolstreamproxy.netlify.app"
+  VITE_M3U8_PROXY_URL: "https://simple-proxy.htc-lemon1.workers.dev"
 };
